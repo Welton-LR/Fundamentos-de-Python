@@ -1,6 +1,8 @@
+#Inserindo informações do cliente e retornando-as na tela
 print("Registre o seu pet!")
-pet = input("Digite o nome do seu pet!---------")
+nomePet = input("Digite o nome do seu pet!---------")
 
-print("Hora de inserir os dados sobre:" , pet)
-cor = input("Digite a cor---------")
+print("Hora de inserir os dados sobre seu animalzinho")
+corPet = input("Digite a cor---------")
 idade = input("Agora a idade---------")
+print("O seu pet se chama:", nomePet, "cor:", corPet, "idade:", idade)

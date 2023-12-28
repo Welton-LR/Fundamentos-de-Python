@@ -1,3 +1,4 @@
+#Usando as condicionais: if,elif e else
 nota1 = float(input("Digite o nome de Portugês!---------"))
 nota2 = float(input("Digite o nome de Matemática!---------"))
 nota3 = float(input("Digite o nome de História!---------"))
